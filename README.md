@@ -1,1 +1,1 @@
-Geradaor-de-Senhas
+Gerador-de-Senhas
